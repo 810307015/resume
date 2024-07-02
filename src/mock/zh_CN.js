@@ -49,16 +49,6 @@ export default {
   JOB_1_CONTENT_4:
     "离职原因：刚毕业的时候想要学点新技术，感觉技术除了刚开始稳固了一下JS的基础运用，继续做下去可能会和外面的开发市场脱轨。",
 
-  //   JOB_2_TIMES: "2019.3 - 2019.10",
-  //   JOB_2_COMPANY_NAME: "武汉理工数字传播工程有限公司",
-  //   JOB_2_JOB_NAME: "前端工程师",
-  //   JOB_2_CONTENT_1: "负责HEALS产品线(https://www.heals.net.cn/)的功能迭代",
-  //   JOB_2_CONTENT_2: "负责RAYS产品线(https://rays.5rs.me/)的功能迭代",
-  //   JOB_2_CONTENT_3:
-  //     "主要技术栈是React、React-router、redux全家桶，主要是做PC端、公众号以及小程序的开发，在这家公司技术面拓展得最快，熟悉了React、Vue的使用，mpvue、wepy等小程序框架的开发，做一些日常的业务组件的开发和维护。",
-  //   JOB_2_CONTENT_4:
-  //     "离职原因：公司的工作强度过大，每天最早也是九点半，发版的话会到凌晨两三点之后，而且当时所在产品线有个项目重构的机会（当时产品线带我的负责人离职了，就剩我在这个产品线待得最久了，另外一个负责人过来接手这个产品线），本来想着跟着新负责人把项目重构完再说，先学点技术，结果没我啥事，把我换到另一条线，带着他之前带的人重构项目，感觉没啥意思溜了。",
-
   JOB_2_TIMES: "2019.10 - 2020.12",
   JOB_2_COMPANY_NAME: "熊猫智慧水务有限公司武汉研发中心",
   JOB_2_JOB_NAME: "前端工程师",
@@ -79,7 +69,7 @@ export default {
     "主要采用Vue、Vue-Router、Vuex等技术栈，做一些组件封装，老代码的重构，做过一部分功能的性能优化，",
   JOB_3_CONTENT_4: "离职原因：想要去一线城市发展，感受一线互联网的技术氛围。",
 
-  JOB_4_TIMES: "2021.10 - 至今",
+  JOB_4_TIMES: "2021.10 - 2023.5",
   JOB_4_COMPANY_NAME: "抖音视界有限公司(原北京字节跳动有限公司)",
   JOB_4_JOB_NAME: "前端工程师",
   JOB_4_CONTENT_1: "负责幸福客B端(https://room.xingfukeapp.com)的迭代更新",
@@ -87,6 +77,21 @@ export default {
     "主要负责房源侧的业务迭代，并针对不同需求给出自己的建议以及与各端人员协调，保证每次需求收益能达到预期。",
   JOB_4_CONTENT_3:
     "参与内部物料库搭建，贡献过webpack插件、vscode插件、以及一些通用业务组件等等。",
+  JOB_4_CONTENT_4:
+    "离职原因：幸福里部门基本没有了，直接大裁员。",
+
+  JOB_5_TIMES: "2023.5 - 至今",
+  JOB_5_COMPANY_NAME: "百度网讯科技股份有限公司",
+  JOB_5_JOB_NAME: "前端工程师",
+  JOB_5_CONTENT_1: "负责爱企查(aiqicha.baidu.com)相关的需求迭代",
+  JOB_5_CONTENT_2:
+    "主要负责爱企查侧供需集市、aibot相关需求的迭代，目前已达成每日线索量超2w+",
+  JOB_5_CONTENT_3:
+    "负责爱企查相关垂类产品商机宝(shangjibao.baidu.com)pc端、h5端、小程序端的迭代，实现从0收入到突破百万收入的目标",
+  JOB_5_CONTENT_4:
+    "负责爱企查旧项目的vue版本升级，综合考虑下，将vue成功升级至2.7版本，支持vue3大部分语法和ts校验",
+  JOB_5_CONTENT_5:
+    "离职原因：结婚了，准备回湖北发展，离家近一点，北京没有户口扎根不太现实。",
 
   TITLE_EVALUATION: "自我评价",
   SLEF_EVALUATION:
